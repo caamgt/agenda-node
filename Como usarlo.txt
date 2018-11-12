@@ -1,0 +1,9 @@
+Iniciar el servidor: npm start
+Ingresar en tu navegador: http://localhost:3000/
+
+Credenciales
+
+Si no aparecen, presiona F5, si aun no aparecen ingresa con: 
+
+Usuario: calfaro@gmail.com
+Password: 123456
